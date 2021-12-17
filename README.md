@@ -2,8 +2,34 @@
 
 ## About me
 
-- 👀 I’m currently a second year Master MIAGE student in Sophia-Antipolis.
-- 🌱 I’m currently learning artificial intelligence and RDF engines.
-- 📫 More informations and how to reach me in my online portfolio.
+Born in Frimley Park (GB), I always was curious and eager for knowledge in diverse fields. Music, swimming and cinema are hobbies that I love as much as programming.
 
-## [Portfolio](https://saundersp.spacetechnology.net/)
+## 🎏 Languages
+
+|English|Français|Deutsch|Россия|Español|Italiano|
+|-|-|-|-|-|-|
+|![English](https://flagcdn.com/w80/gb.png)|![Français](https://flagcdn.com/w80/fr.png)|![Deutsch](https://flagcdn.com/w80/de.png)|![Россия](https://flagcdn.com/w80/ru.png)|![Español](https://flagcdn.com/w80/es.png)|![Italiano](https://flagcdn.com/w80/it.png)|
+|Native|Bilingual|Usual|Beginner|Beginner|Beginner|
+
+## 🔧 Technologies & Tools
+
+![Gentoo-Logo](https://img.shields.io/badge/OS-Gentoo-9cf?style=for-the-badge&labelColor=C0C0C0&color=625BC7&logoColor=54487A&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHRpdGxlPkdlbnRvbzwvdGl0bGU+CgogPGcgY2xhc3M9ImxheWVyIj4KICA8dGl0bGU+TGF5ZXIgMTwvdGl0bGU+CiAgPHBhdGggZD0ibTkuOTQsMGE3LjMxLDcuMzEgMCAwIDAgLTEuMjYsMC4xMTZjLTQuMzQ0LDAuNzk1IC03LjQsNC41NTUgLTcuNjYxLDcuMDMxYy0wLjEyNiwxLjIxNSAwLjUzLDIuMTI1IDAuODksMi41MjZjMC45NzcsMS4wODUgMi45MjQsMS45MTQgNC4xNzUsMi42MDFjLTEuODEsMS41NDMgLTIuNjQsMi4yOTYgLTMuNDU3LDMuMTU0Yy0xLjIyNCwxLjI4NCAtMi4wODQsMi42OTcgLTIuMDg3LDMuNzFjMCwwLjMyNSAtMC4wNTMsMS4zNjUgMC4zNzEsMi4xODdjMC4xNiwwLjMwOSAwLjYxMywxLjMzOCAxLjk4LDIuMTA5YzAuODc0LDAuNDk0IDIuMTE5LDAuNjc1IDMuMzM3LDAuNTAxYzMuNzcyLC0wLjUzOCA4LjgyMywtMy43MzcgMTIuNDI3LC02LjcxNmMyLjI5NywtMS45IDMuOTc3LC0zLjczOSA0LjQ2MiwtNC42NDRjMC4zOSwtMC43MzEgMC40MzQsLTIuMDQzIDAuMjA3LC0yLjg2NmMtMC42NDUsLTIuMzM3IC01Ljg4NywtNy4xMjUgLTEwLjE3MiwtOS4wNTFhNy44MjQsNy44MjQgMCAwIDAgLTMuMjEyLC0wLjY1OHptLTAuMDA4LDAuMDY4YTcuNCw3LjQgMCAwIDEgMy4zNDQsMC43NTVjMy40NiwxLjcgOS4zMDgsNi40ODIgOS43MzksOC44ODZjMC41MzQsMi45NzIgLTkuOTMxLDExLjAxNyAtMTYuMjk3LDEyLjI3MmMtMi40NywwLjQ4NSAtNC41NzYsMC42MTggLTUuNTM3LC0xLjk5Yy0wLjgzMiwtMi4yNjIgMC43ODMsLTMuOTE2IDMuMTYsLTYuMDlhOTIuNTQ2LDkyLjU0NiAwIDAgMSAyLjk2LC0yLjU3NmMwLjA2NSwtMC4wNjkgLTUuNzA2LC0yLjA1OSAtNS44OSwtNC4zNDNjLTAuMTksLTIuMzQ4IDMuNTI3LC02LjY4MiA4LjI4NiwtNi45MDZjMC4wOCwtMC4wMDQgMC4xNTcsLTAuMDA3IDAuMjM1LC0wLjAwOHptLTAuMTEyLDAuNTJhNS42NDcsNS42NDcgMCAwIDAgLTAuNTA2LDAuMDMyYy0yLjMzNywwLjI0NSAtMi43ODUsMC41NDcgLTQuOTAzLDIuMTQ5Yy0wLjcxLDAuNTM3IC0yLjAxNiwxLjg0NCAtMi4zNSwzLjM5M2MtMC4xMjgsMC41OSAwLjAyNCwxLjEgMC40NDgsMS40NThjMS4zNiwxLjE0NCAzLjYzOSwyLjA3MiA1LjUwOSwyLjk3YzAuNTQ3LDAuMjYzIDAuMTg1LDAuNzQgLTAuNjk4LDEuNTA1Yy0yLjIyNywxLjkyOCAtNS4yNCw0LjI3NiAtNS40NSw2LjA2NmMtMC4wOTksMC44NDIgMC4xOSwxLjk4OCAxLjIxMywyLjU3NGMxLjE5NSwwLjY4NSAzLjY3NiwwLjIzOCA1LjMzMywtMC4zNzljMi40MjIsLTAuOTAyIDUuNjAyLC0yLjg5MiA4LjEyNywtNC44NDhjMi42MjUsLTIuMDM0IDUuMDY3LC00LjYxNyA1LjE4OCwtNS4wMzhjMC4xNDgsLTAuNTE3IDAuMTMzLC0wLjk5NiAtMC4xNTQsLTEuNTQ2Yy0wLjQ0OCwtMC44NjIgLTEuMDQ5LC0xLjUwMyAtMS42OTQsLTIuMjJjLTEuNzMyLC0xLjgyNSAtMy41NjMsLTMuNDMgLTUuNzU0LC00LjY1OGMtMS40MzUsLTAuODA0IC0yLjcxMiwtMS40ODIgLTQuMzA5LC0xLjQ1OHptMS4wNzUsMy42MjNjMC41NDYsMCAxLjE3NiwwLjE3MyAxLjg1MywwLjVjMS42ODgsMC44MTcgMy40MjIsMi45NjEgLTAuMDE1LDQuMTk1Yy0wLjkzNSwwLjMzNiAtMy45LC0wLjgyNCAtMy44MSwtMi40MDdjMC4wOSwtMS41NyAwLjg1NCwtMi4yODkgMS45NzIsLTIuMjg4em0wLjI4NSwxLjM2N2MtMC4zMTcsLTAuMDAyIC0wLjU3NSwwLjA3OSAtMC42OTQsMC4yNjNjLTAuNTU3LDAuODYxIC0wLjMwMywxLjQ3MiAwLjIxMiwxLjg2MmMwLjE5MiwtMC40NTcgMi4xNTYsMC4wNDMgMi4xNDgsMC40NzJhMC4zMiwwLjMyIDAgMCAwIDAuMDU1LC0wLjAzMmMxLjcwNCwtMS4yODIgLTAuNDcyLC0yLjU1NyAtMS43MiwtMi41NjVsLTAuMDAxLDB6IiBmaWxsPSIjNTQ0ODdhIiBpZD0ic3ZnXzEiLz4KIDwvZz4KPC9zdmc+)
+![Artix-Logo](https://img.shields.io/badge/OS-Artix-9cf?style=for-the-badge&labelColor=C0C0C0&color=625BC7&logoColor=10A0CC&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIj8+Cjxzdmcgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHRpdGxlPkFydGl4IExpbnV4PC90aXRsZT4KCiA8ZyBjbGFzcz0ibGF5ZXIiPgogIDx0aXRsZT5MYXllciAxPC90aXRsZT4KICA8cGF0aCBkPSJtMTIsMGwtNC4xMjcsOC40NjJsMTEuMzU4LDYuMzYzbC03LjIzMSwtMTQuODI1em0tNS4zNzQsMTEuMDE4bC02LjMzMSwxMi45ODJsMTguNzg4LC03Ljc2MmwtMTIuNDU3LC01LjIyem0xMy44NDYsNi4zNTJsLTUuOTI2LDMuNDAybDkuMTYsMy4yMjhsLTMuMjM0LC02LjYzeiIgZmlsbD0iIzEwYTBjYyIgaWQ9InN2Z18xIi8+CiA8L2c+Cjwvc3ZnPg==)
+![NeoVim-Logo](https://img.shields.io/badge/Editor-NeoVim-informational?style=for-the-badge&labelColor=C0C0C0&color=625BC7&logo=neovim)
+![VSCodium-Logo](https://img.shields.io/badge/Editor-VSCodium-9cf?style=for-the-badge&labelColor=C0C0C0&color=625BC7&logoColor=007ACC&logo=visualstudiocode)
+
+## 📈 GitHub Stats
+
+![@saundersp GitHub stats](https://github-readme-stats.vercel.app/api?username=saundersp&show_icons=true&theme=radical)
+
+## Top projects
+
+[![SimpleGradientDescent projet card](https://github-readme-stats.vercel.app/api/pin/?username=saundersp&repo=SimpleGradientDescent&theme=radical)](https://github.com/saundersp/SimpleGradientDescent)
+[![VariationalAutoEncoder projet card](https://github-readme-stats.vercel.app/api/pin/?username=saundersp&repo=VariationalAutoEncoder&theme=radical)](https://github.com/saundersp/VariationalAutoEncoder)
+[![EtudePopulationMondiale projet card](https://github-readme-stats.vercel.app/api/pin/?username=saundersp&repo=EtudePopulationMondiale&theme=radical)](https://github.com/saundersp/EtudePopulationMondiale)
+
+## [Portfolio website](https://saundersp.com)
+
+## Credits
+
+[![Simple Icons website icon](https://simpleicons.org/images/favicon.ico)](https://simpleicons.org/)[![Shields IO website icon](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAYAAABb0P4QAAABE0lEQVR4AWJkAIKkpCQ7TU3NySIiIlosQMCABejbMWAFf//8YXj77vWn27duZWVGz1nKGBYWZiQkJHSIkZGRmwEPCMxiwAt+/fz3/86VL8EAbuiiAKEoiMLwGcHdCQMBiUAlurDErmJ75tmKP8A3oiJyuF6vAxglws+0C5pv81GJaJdzhlWMMJssaaXM3C0CpmSDLAQtgH3BiCIVB2NRMKWEIoXQMBiLgjHGP9nQ+6ZPLgqGgs9xriDovX8A6Jjgw8ZyIigzn5xz+yZ+6O/tsz7Hy8tb/PLlywPAHMOFT/G3LwRc95fxPyerQCojuKwLDLQAGjoJWIzpAw1mw6bB0guHSYyMDBysnO/5hUTTGvM3rQEAI8qCnLiY3O4AAAAASUVORK5CYII=)](https://shields.io/)
